@@ -48,8 +48,12 @@
   font-size:30px;
   color:#50b9c7;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
 }
 
+.operator:focus, .number:focus, .empty:focus{
+  outline: none;
+}
 .equalTo{
   width:130px;
   border-bottom-right-radius: 90px;
