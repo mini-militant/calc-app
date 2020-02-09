@@ -2,10 +2,6 @@ import * as types from '../Actions/ActionTypes'
 
 const initialState={
   input:'',
-  previousNumber:'',
-  currentNumber:'',
-  operator:'',
-  flag:false,
 }
 
 export default function RootReducer(state=initialState,action){
