@@ -4,7 +4,6 @@ npm version - 6.13.7
 ## To run this project
 
 npm install - it will install all the necessary dependencies<br/>
-npm version - 6.13.7
 npm start
 
 ## Available Scripts
