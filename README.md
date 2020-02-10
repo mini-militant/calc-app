@@ -1,7 +1,7 @@
 Node Version - 12.14.1
 npm version - 6.13.7
 
-##To run this project
+## To run this project
 
 npm install - it will install all the necessary dependencies
 npm start
