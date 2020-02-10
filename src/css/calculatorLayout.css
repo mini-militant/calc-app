@@ -19,7 +19,7 @@
   font-size: 20px;
   margin:5px 10px;
   color:#29b8ca;
-
+  overflow: hidden;
   /*color lighter than result*/
 }
 #container-output{
@@ -28,6 +28,7 @@
   margin:5px 10px;
   font-size: 60px;
   color:#50b9c7;
+  overflow:hidden;
 }
 
 
